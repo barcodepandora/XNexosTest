@@ -46,7 +46,7 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qSo-g2-ReQ">
                                 <rect key="frame" x="16" y="108" width="169" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Arreglar"/>
+                                <state key="normal" title="Arreglado"/>
                                 <connections>
                                     <action selector="ordenar:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cnx-fC-JQF"/>
                                 </connections>
